@@ -27,7 +27,7 @@
 end
      function wh1()
 gg.clearResults()
-gg.setSpeed(0.01)
+gg.setSpeed(1.0)
 gg.toast('🔹️Vui lòng chờ ᴀuтo wιɴ🔹️')
 end
 
